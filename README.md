@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Qew-Tanu&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,php,python,html,css&frameworks=react,bootstrap,tailwind)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css&frameworks=react,bootstrap,tailwind)](https://github.com/Jurredr/github-widgetbox)
 
 **Qew-Tanu/Qew-Tanu**
 
