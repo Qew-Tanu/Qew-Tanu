@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi everyone 👋
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,postgresql&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+**Tanu Tarathikhamporn (Qew)**
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,bootstrap,tailwind,express&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+- 🌱 I’m currently Full-stack developer with Doosoft (Typescript, Javascript) with
+  - Front-end : NextJs, Antd Design, Ant Design Charts, Refine (Typescript)
+  - Back-end : Nodejs, loopback 3 (Javascript)
+  - Database : PostgreSQL
+- 🔭 I was working on SCG Packaging Company for 6 years as Project Engineer
+- 👯 I’m looking to collaborate on Full-stack Developer, Front-end Developer and Back-end Developer
 
-**Qew-Tanu/Qew-Tanu**
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,postgresql&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
-Here are some ideas to get you started:
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,node,bootstrap,tailwind,express&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
-- 🔭 I was working on SCG Packaging Company
-- 🌱 I’m currently learning web developer with Coursera and Westride (Front-end and back-end)
-- 👯 I’m looking to collaborate on Front-end Developer and Back-end Developer
+
 
 
 
