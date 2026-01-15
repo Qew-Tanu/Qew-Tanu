@@ -9,6 +9,8 @@
 - 🔭 I was working on SCG Packaging Company for 6 years as Project Engineer
 - 👯 I’m looking to collaborate on Full-stack Developer, Front-end Developer and Back-end Developer
 
+you can know me more on https://qew-tanu.github.io/knowMe/
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,postgresql&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,node,bootstrap,tailwind,express&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
